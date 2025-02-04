@@ -15,7 +15,7 @@ Lab: I did not face any challenges while solving this lab.
 
 
 Topic: The Progress Report
-Here is my progress report
+Here is my progress report of this course
 
 ![Screenshot 2024-11-24 at 17 40 53](https://github.com/user-attachments/assets/a196115e-00c1-4fd4-88e7-f46857b562f5)
 
